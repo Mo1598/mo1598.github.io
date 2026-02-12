@@ -330,22 +330,34 @@ section {
   transition: all 0.4s ease-in-out;
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
-  width: 80%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 85%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .dbadmin {
+  width: 83%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .laravel {
-  width: 78%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .flutter {
-  width: 73%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .dbdesign {
-  width: 81%;
+  width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .nestjs {
   width: 88%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+.about-stats .progress-bars .progress-bar .progress-con .progress .angular {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .linux {
+  width: 82%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .datamodeling {
+  width: 84%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .restapi {
+  width: 87%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .golang {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .etl {
   width: 80%;
 }
 
@@ -934,4 +946,4 @@ section {
   .section {
     padding: 2rem 6.5rem;
   }
-}/*# sourceMappingURL=styles.css.map */
+}
